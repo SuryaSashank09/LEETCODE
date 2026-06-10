@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/SuryaSashank09/LEETCODE/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/SuryaSashank09/LEETCODE/tree/master/0012-integer-to-roman) |
 ## Array
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SuryaSashank09/LEETCODE/tree/master/0012-integer-to-roman) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SuryaSashank09/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Tree
 |  |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3689-maximum-total-subarray-value-i](https://github.com/SuryaSashank09/LEETCODE/tree/master/3689-maximum-total-subarray-value-i) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/SuryaSashank09/LEETCODE/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
