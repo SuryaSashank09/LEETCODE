@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/SuryaSashank09/LEETCODE/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/SuryaSashank09/LEETCODE/tree/master/0012-integer-to-roman) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SuryaSashank09/LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Array
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SuryaSashank09/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SuryaSashank09/LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/SuryaSashank09/LEETCODE/tree/master/0012-integer-to-roman) |
+## Depth-First Search
+|  |
+| ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SuryaSashank09/LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 <!---LeetCode Topics End-->
