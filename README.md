@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SuryaSashank09/LEETCODE/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/SuryaSashank09/LEETCODE/tree/master/0012-integer-to-roman) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SuryaSashank09/LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SuryaSashank09/LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Array
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SuryaSashank09/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SuryaSashank09/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/SuryaSashank09/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SuryaSashank09/LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SuryaSashank09/LEETCODE/tree/master/3689-maximum-total-subarray-value-i) |
 ## Prefix Sum
 |  |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SuryaSashank09/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SuryaSashank09/LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SuryaSashank09/LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -52,4 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SuryaSashank09/LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SuryaSashank09/LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SuryaSashank09/LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SuryaSashank09/LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 <!---LeetCode Topics End-->
