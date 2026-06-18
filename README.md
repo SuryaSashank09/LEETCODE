@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/SuryaSashank09/LEETCODE/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/SuryaSashank09/LEETCODE/tree/master/0012-integer-to-roman) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/SuryaSashank09/LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SuryaSashank09/LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SuryaSashank09/LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Array
