@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SuryaSashank09/LEETCODE/tree/master/0011-container-with-most-water) |
 | [1732-find-the-highest-altitude](https://github.com/SuryaSashank09/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/SuryaSashank09/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/SuryaSashank09/LEETCODE/tree/master/1840-maximum-building-height) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SuryaSashank09/LEETCODE/tree/master/0011-container-with-most-water) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SuryaSashank09/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SuryaSashank09/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SuryaSashank09/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SuryaSashank09/LEETCODE/tree/master/0011-container-with-most-water) |
 | [1833-maximum-ice-cream-bars](https://github.com/SuryaSashank09/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SuryaSashank09/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SuryaSashank09/LEETCODE/tree/master/3689-maximum-total-subarray-value-i) |
