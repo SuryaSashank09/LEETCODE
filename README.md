@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SuryaSashank09/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0209-minimum-size-subarray-sum](https://github.com/SuryaSashank09/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/SuryaSashank09/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SuryaSashank09/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/SuryaSashank09/LEETCODE/tree/master/1732-find-the-highest-altitude) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/SuryaSashank09/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SuryaSashank09/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/SuryaSashank09/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/SuryaSashank09/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/SuryaSashank09/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SuryaSashank09/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/SuryaSashank09/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/SuryaSashank09/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SuryaSashank09/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SuryaSashank09/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
