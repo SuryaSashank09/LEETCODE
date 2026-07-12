@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SuryaSashank09/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0209-minimum-size-subarray-sum](https://github.com/SuryaSashank09/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/SuryaSashank09/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
+| [1331-rank-transform-of-an-array](https://github.com/SuryaSashank09/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SuryaSashank09/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/SuryaSashank09/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/SuryaSashank09/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/SuryaSashank09/LEETCODE/tree/master/0012-integer-to-roman) |
 | [1189-maximum-number-of-balloons](https://github.com/SuryaSashank09/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/SuryaSashank09/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SuryaSashank09/LEETCODE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SuryaSashank09/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SuryaSashank09/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/SuryaSashank09/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/SuryaSashank09/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/SuryaSashank09/LEETCODE/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SuryaSashank09/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
