@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SuryaSashank09/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/SuryaSashank09/LEETCODE/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SuryaSashank09/LEETCODE/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/SuryaSashank09/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/SuryaSashank09/LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/SuryaSashank09/LEETCODE/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/SuryaSashank09/LEETCODE/tree/master/3838-weighted-word-mapping) |
@@ -215,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/SuryaSashank09/LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/SuryaSashank09/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
