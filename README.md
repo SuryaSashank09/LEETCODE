@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/SuryaSashank09/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SuryaSashank09/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SuryaSashank09/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/SuryaSashank09/LEETCODE/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SuryaSashank09/LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SuryaSashank09/LEETCODE/tree/master/3689-maximum-total-subarray-value-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SuryaSashank09/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/SuryaSashank09/LEETCODE/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SuryaSashank09/LEETCODE/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SuryaSashank09/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/SuryaSashank09/LEETCODE/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/SuryaSashank09/LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/SuryaSashank09/LEETCODE/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/SuryaSashank09/LEETCODE/tree/master/3838-weighted-word-mapping) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/SuryaSashank09/LEETCODE/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SuryaSashank09/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SuryaSashank09/LEETCODE/tree/master/0268-missing-number) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/SuryaSashank09/LEETCODE/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SuryaSashank09/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/SuryaSashank09/LEETCODE/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
