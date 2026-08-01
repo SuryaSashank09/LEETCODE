@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SuryaSashank09/LEETCODE/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/SuryaSashank09/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/SuryaSashank09/LEETCODE/tree/master/0268-missing-number) |
+| [0486-predict-the-winner](https://github.com/SuryaSashank09/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SuryaSashank09/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SuryaSashank09/LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/SuryaSashank09/LEETCODE/tree/master/1840-maximum-building-height) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/SuryaSashank09/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/SuryaSashank09/LEETCODE/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SuryaSashank09/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0486-predict-the-winner](https://github.com/SuryaSashank09/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SuryaSashank09/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/SuryaSashank09/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SuryaSashank09/LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/SuryaSashank09/LEETCODE/tree/master/0152-maximum-product-subarray) |
+| [0486-predict-the-winner](https://github.com/SuryaSashank09/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SuryaSashank09/LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SuryaSashank09/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SuryaSashank09/LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -250,4 +253,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SuryaSashank09/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/SuryaSashank09/LEETCODE/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/SuryaSashank09/LEETCODE/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
