@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/SuryaSashank09/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SuryaSashank09/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/SuryaSashank09/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
+| [0835-image-overlap](https://github.com/SuryaSashank09/LEETCODE/tree/master/0835-image-overlap) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SuryaSashank09/LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
 | [1260-shift-2d-grid](https://github.com/SuryaSashank09/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/SuryaSashank09/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/SuryaSashank09/LEETCODE/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/SuryaSashank09/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SuryaSashank09/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Sliding Window
