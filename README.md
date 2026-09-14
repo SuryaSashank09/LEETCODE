@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SuryaSashank09/LEETCODE/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/SuryaSashank09/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SuryaSashank09/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/SuryaSashank09/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SuryaSashank09/LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/SuryaSashank09/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1840-maximum-building-height](https://github.com/SuryaSashank09/LEETCODE/tree/master/1840-maximum-building-height) |
@@ -295,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/SuryaSashank09/LEETCODE/tree/master/3310-remove-methods-from-project) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/SuryaSashank09/LEETCODE/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
