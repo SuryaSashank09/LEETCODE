@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SuryaSashank09/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/SuryaSashank09/LEETCODE/tree/master/0012-integer-to-roman) |
+| [0022-generate-parentheses](https://github.com/SuryaSashank09/LEETCODE/tree/master/0022-generate-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/SuryaSashank09/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SuryaSashank09/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SuryaSashank09/LEETCODE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SuryaSashank09/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0152-maximum-product-subarray](https://github.com/SuryaSashank09/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/SuryaSashank09/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SuryaSashank09/LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
@@ -306,4 +308,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/SuryaSashank09/LEETCODE/tree/master/0836-rectangle-overlap) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/SuryaSashank09/LEETCODE/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/SuryaSashank09/LEETCODE/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
