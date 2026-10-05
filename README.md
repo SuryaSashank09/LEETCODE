@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SuryaSashank09/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/SuryaSashank09/LEETCODE/tree/master/0155-min-stack) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SuryaSashank09/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
 |  |
@@ -319,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SuryaSashank09/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SuryaSashank09/LEETCODE/tree/master/0022-generate-parentheses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/SuryaSashank09/LEETCODE/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
