@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SuryaSashank09/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/SuryaSashank09/LEETCODE/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/SuryaSashank09/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SuryaSashank09/LEETCODE/tree/master/0022-generate-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/SuryaSashank09/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SuryaSashank09/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SuryaSashank09/LEETCODE/tree/master/0020-valid-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SuryaSashank09/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
 |  |
@@ -315,5 +317,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SuryaSashank09/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SuryaSashank09/LEETCODE/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
